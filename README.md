@@ -114,4 +114,4 @@ test_nonlenses
 
 Each image contains three channels corresponding to telescope filters.
 
-Image shape:
+Image shape: (3, 64, 64)
